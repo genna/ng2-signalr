@@ -1,5 +1,6 @@
 import { ConnectionTransport } from './connection.transport';
 
+//@dynamic
 export class ConnectionTransports {
 
     private static transports: ConnectionTransport[] =
@@ -29,5 +30,8 @@ export class ConnectionTransports {
 
     public static get auto(): ConnectionTransport {
         return ConnectionTransports.transports[4];
+    }
+
+    constructor() {
     }
 }

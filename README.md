@@ -1,3 +1,4 @@
+# Fork of ng2-signalr for Angular 5 support
 
 [![npm version](https://badge.fury.io/js/ng2-signalr.svg)](https://badge.fury.io/js/ng2-signalr)
 ![live demo](https://img.shields.io/badge/demo-live-orange.svg)
