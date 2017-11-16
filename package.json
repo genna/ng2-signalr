@@ -1,6 +1,6 @@
 {
   "name": "wfw-ngx-signalr",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "angular 5 signalr library",
   "main": "bundles/wfw-ngx-signalr.umd.js",
   "module": "index.js",
